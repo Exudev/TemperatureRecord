@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PL3f9S3rX4im0hncyg82732sLlDat0jshGMaoVGww1yhUe0vxEHz+cRiJ0ZEriThf2SnZGKKjagxpyJsygwVBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pablo\\source\\repos\\TemperatureRecord\\TemperatureRecord\\TemperatureRecord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

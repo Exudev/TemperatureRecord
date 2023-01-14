@@ -1,0 +1,26 @@
+<data>
+  <row>
+    <id>1</id>
+    <location>25.5,45.3</location>
+    <date>2023-05-25</date>
+    <meassure>100</meassure>
+  </row>
+  <row>
+    <id>2</id>
+    <location>45.3,25.5</location>
+    <date>2023-05-25</date>
+    <meassure>55</meassure>
+  </row>
+  <row>
+    <id>3</id>
+    <location>30,70</location>
+    <date>2023-05-25</date>
+    <meassure>2</meassure>
+  </row>
+  <row>
+    <id>4</id>
+    <location>20.46666,50.84</location>
+    <date>2023-05-25</date>
+    <meassure>82</meassure>
+  </row>
+</data>

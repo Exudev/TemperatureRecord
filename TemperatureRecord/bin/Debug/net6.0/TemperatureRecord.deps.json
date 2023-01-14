@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TemperatureRecord/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "30.0.1",
+          "Newtonsoft.Json.Schema": "3.0.14"
+        },
+        "runtime": {
+          "TemperatureRecord.dll": {}
+        }
+      },
+      "CsvHelper/30.0.1": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "30.0.0.0",
+            "fileVersion": "30.0.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Newtonsoft.Json.Schema/3.0.14": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.Schema.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.14.25421"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureRecord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/30.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
+      "path": "csvhelper/30.0.1",
+      "hashPath": "csvhelper.30.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json.Schema/3.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qnu41yEFuMEJMuD1kJgslc4cF981K+hA7SmgXQ/N6pk6Zknvxt4g5Hx7KRykycP3oKyoz3aTFRV/TX+Vp6v7uQ==",
+      "path": "newtonsoft.json.schema/3.0.14",
+      "hashPath": "newtonsoft.json.schema.3.0.14.nupkg.sha512"
+    }
+  }
+}

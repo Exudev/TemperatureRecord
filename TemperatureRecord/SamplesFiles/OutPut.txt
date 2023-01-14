@@ -1,0 +1,1 @@
+Stats { AvgTemp = 32.67, MaxTemp = 38.8, MinTemp = 24.5 }
